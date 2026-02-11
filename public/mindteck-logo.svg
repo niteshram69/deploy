@@ -1,0 +1,16 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Mindteck Text -->
+  <text x="10" y="120" font-family="Arial, Helvetica, sans-serif" font-size="110" font-weight="bold" fill="#005555">
+    Mindteck
+  </text>
+  
+  <!-- Swoosh Arrow -->
+  <path d="M 550 140 Q 650 90, 750 110 Q 800 120, 850 90" 
+        stroke="#B8985F" 
+        stroke-width="12" 
+        fill="none" 
+        stroke-linecap="round"/>
+  
+  <!-- Arrow Head -->
+  <polygon points="850,90 830,75 835,95" fill="#B8985F"/>
+</svg>
